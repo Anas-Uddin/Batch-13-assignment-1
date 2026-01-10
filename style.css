@@ -118,3 +118,14 @@ nav {
 .note-p-colors {
   color: #627382;
 }
+#brain-section {
+  margin: 120px;
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+#brain-p1 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #627382;
+}
