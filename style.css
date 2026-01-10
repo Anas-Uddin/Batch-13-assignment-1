@@ -79,8 +79,10 @@ nav {
 #nav-btn-1 {
   color: white;
   height: 52px;
-  width: 251px;
+  width: 330px;
   border-radius: 7px;
+  font-size: 16px;
+  font-weight: 600;
 }
 #nav-btn-2 {
   color: white;
@@ -88,7 +90,9 @@ nav {
   border-radius: 5px;
   background-color: rgba(255, 255, 255, 0);
   height: 50px;
-  width: 251px;
+  width: 260px;
+  font-size: 16px;
+  font-weight: 600;
 }
 #btn-div {
   display: flex;
