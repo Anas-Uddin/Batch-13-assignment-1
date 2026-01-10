@@ -41,6 +41,9 @@ nav {
   border-radius: 7px;
   height: 44px;
   width: 164px;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
 }
 .hero-div {
   height: 600px;
