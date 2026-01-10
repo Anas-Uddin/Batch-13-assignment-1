@@ -56,10 +56,11 @@ nav {
   border-radius: 15px;
 }
 #green-circle {
-  height: 16px;
-  width: 16px;
+  height: 13px;
+  width: 13px;
   border-radius: 50%;
 }
+
 #nav-h3 {
   font-size: 72px;
   font-weight: 700;
@@ -80,10 +81,40 @@ nav {
   border: 1px solid white;
   border-radius: 5px;
   background-color: rgba(255, 255, 255, 0);
-  height: 52px;
+  height: 50px;
   width: 251px;
 }
 #btn-div {
   display: flex;
   gap: 20px;
+}
+#first-div-section {
+  padding-top: 70px;
+  text-align: center;
+}
+.scattered-img {
+  background-color: rgba(249, 85, 85, 1);
+  border-radius: 50%;
+  padding: 10px;
+  height: 25px;
+}
+.scattered-notes-h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+.second-div-section {
+  text-align: center;
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+}
+#second-note-div {
+  display: flex;
+  justify-content: space-around;
+}
+#note-section {
+  background-color: rgb(247, 247, 237);
+}
+.note-p-colors {
+  color: #627382;
 }
