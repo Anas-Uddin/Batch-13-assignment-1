@@ -3,6 +3,7 @@ body {
 }
 button:hover {
   cursor: pointer;
+  background-color: #0dd35f;
 }
 .font-inter {
   font-family: "Open Sans", sans-serif;
@@ -93,6 +94,9 @@ nav {
   width: 260px;
   font-size: 16px;
   font-weight: 600;
+}
+#nav-btn-2:hover {
+  background-color: rgba(255, 255, 255, 0.227);
 }
 #btn-div {
   display: flex;
