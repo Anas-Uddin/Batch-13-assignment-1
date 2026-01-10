@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 button:hover {
   cursor: pointer;
 }
@@ -153,4 +156,26 @@ nav {
   border-radius: 7px;
   font-weight: 600;
   font-size: 16px;
+}
+footer {
+  background-color: rgba(0, 25, 49, 1);
+  padding: 120px 120px 30px 120px;
+  margin: 0;
+}
+#footer-h5 {
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+.footer-icon-style {
+  background-color: white;
+  border-radius: 50%;
+  padding: 3px;
+}
+#footer-last-p {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 120px;
 }
